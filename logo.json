@@ -5,7 +5,14 @@
         	"Pos": "TopMid",
         	"Persist": false,
         	"FadeTime": 20
-    	}
+    	},
+		{
+        	"URL": "i.imgur.com/VYtXEdr.png",
+        	"Pos": "BottomLeft",
+        	"Persist": true,
+        	"FadeTime": 5
+    	},
+
     	
 	]
 }
